@@ -1,6 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="allTests" verbose="2" annotations="JDK">
-    <suite-files>
-        <suite-file path="basicTests.xml" />
-    </suite-files>
-</suite>
